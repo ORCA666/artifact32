@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\area51m\Desktop\asrtifact32\artifact32\main.cpp(6,30): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  patch.cpp
+C:\Users\area51m\Desktop\asrtifact32\artifact32\patch.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 16 functions (18.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  artifact32.vcxproj -> C:\Users\area51m\Desktop\asrtifact32\Release\artifact32.exe

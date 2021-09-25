@@ -1,0 +1,15 @@
+﻿  Assembling SyscallsStubs.asm...
+  injector.c
+C:\Users\area51m\Desktop\asrtifact32\artifact32big\injector.c(25,11): warning C4101: 'Status': unreferenced local variable
+  Syscalls.c
+  main.cpp
+C:\Users\area51m\Desktop\asrtifact32\artifact32big\main.cpp(6,30): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  patch.cpp
+C:\Users\area51m\Desktop\asrtifact32\artifact32big\patch.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\area51m\Desktop\asrtifact32\artifact32big\injector.c(206): warning C4715: 'Delay_Exec': not all control paths return a value
+C:\Users\area51m\Desktop\asrtifact32\artifact32big\injector.c(186): warning C4715: 'inject': not all control paths return a value
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  artifact32big.vcxproj -> C:\Users\area51m\Desktop\asrtifact32\Release\artifact32big.exe
